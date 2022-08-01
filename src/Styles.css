@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  overflow: hidden;
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.main-container ::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+
+.fuel-card {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 3px;
+}
+.fuel-logo_container {
+  height: 50px;
+  display: flex;
+}
+.fuel-logo {
+  height: 50px;
+}
+.fuel-logo_image {
+  height: 40px;
+  margin: 10px 5px;
+}
+.fuel-title {
+  color: #fff;
+  background-color: #d15306;
+  border-radius: 3px;
+  margin-top: 15px;
+  height: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
+.fuel-qr_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fuel-qr_img:hover {
+  opacity: 0.5;
+}
+.fuel-qr_img {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.qr-image {
+  height: 200px;
+  width: 200px;
+}
+.hide-me {
+  display: none;
+}
+.fuel-pass_print_me {
+  padding: 10px 30px;
+  margin-top: 20px;
+  border-width: 0px;
+  background-color: #d15306;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+.fuel-pass_print_me:hover {
+  background-color: #a94405;
+}
+.dont-be-a-slave {
+  padding: 10px 0px;
+  font-size: 10px;
+  font-family: "Poppins", sans-serif;
+}
