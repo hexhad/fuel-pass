@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fuel-pass/static/css/main.e21280f8.css",
+    "main.css": "/fuel-pass/static/css/main.7960922c.css",
     "main.js": "/fuel-pass/static/js/main.4104fcd7.js",
     "static/js/703.f025c45c.chunk.js": "/fuel-pass/static/js/703.f025c45c.chunk.js",
     "static/js/262.33d11e40.chunk.js": "/fuel-pass/static/js/262.33d11e40.chunk.js",
@@ -9,13 +9,13 @@
     "static/media/ceypetco.png": "/fuel-pass/static/media/ceypetco.6fba6749ad0f0a42d308.png",
     "static/media/ph.png": "/fuel-pass/static/media/ph.29388170cbae0347362f.png",
     "index.html": "/fuel-pass/index.html",
-    "main.e21280f8.css.map": "/fuel-pass/static/css/main.e21280f8.css.map",
+    "main.7960922c.css.map": "/fuel-pass/static/css/main.7960922c.css.map",
     "main.4104fcd7.js.map": "/fuel-pass/static/js/main.4104fcd7.js.map",
     "703.f025c45c.chunk.js.map": "/fuel-pass/static/js/703.f025c45c.chunk.js.map",
     "262.33d11e40.chunk.js.map": "/fuel-pass/static/js/262.33d11e40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e21280f8.css",
+    "static/css/main.7960922c.css",
     "static/js/main.4104fcd7.js"
   ]
 }
